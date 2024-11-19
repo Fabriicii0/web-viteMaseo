@@ -10,6 +10,7 @@ const pageContext = {
     "/pages/nosotros.html": cardsPage,
     "/pages/programas.html": cardsPrograma,
     "/pages/preguntas.html": cardsPreguntas,
+    
 }
 
 const globalContext = {
